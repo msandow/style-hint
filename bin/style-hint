@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+require('coffee-script/register');
+var hint = require('./../src/style-hint');
+
+hint.run();

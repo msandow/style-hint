@@ -1,0 +1,13 @@
+{
+  "name": "style-hint",
+  "version": "0.0.0-BUILD-NUMBER",
+  "private": true,
+  "bin": "./bin/style-hint",
+  "dependencies": {
+    "async": "=0.9.0",    
+    "coffee-script": "=1.7.1",
+    "jscs ": "=1.7.3",
+    "jshint": "=2.5.10",
+    "coffeelint": "=1.6.1"
+  }
+}
